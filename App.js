@@ -15,8 +15,6 @@ import {
   Text,
   View,
   Image,
-  Alert,
-  Dimensions,
   Button,
   TouchableOpacity,
 } from 'react-native';
